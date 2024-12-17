@@ -18,5 +18,4 @@ Steps to Run:
    - Input any news article, and the model will classify it as **Real** or **Fake**.
 
 ## Sample Output: 
- : 
-![Fake News or Not?]()
+![Sample](https://github.com/Sharonsunaina7/Fake_News_Prediction/blob/main/Fake%20News%20Sample.png)
